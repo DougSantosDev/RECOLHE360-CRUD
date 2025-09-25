@@ -9,7 +9,7 @@ Este guia mostra como rodar o projeto no **Visual Studio Code** e visualizar as 
 
 - [PHP](https://www.php.net/downloads) >= 8.3
 - [Composer](https://getcomposer.org/download/)
-- [MySQL](https://dev.mysql.com/downloads/) ou MariaDB
+- [MySQL](https://dev.mysql.com/downloads/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - Extensões recomendadas no VS Code:
   - PHP Intelephense
